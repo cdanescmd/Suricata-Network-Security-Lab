@@ -6,7 +6,7 @@ This project demonstrates the deployment and operation of Suricata IDS in a Linu
 ## Architecture
 ![Suricata Lab Architecture](architecture/suricata-lab-architecture.png)
 
-*This diagram illustrates the high-level architecture of an isolated virtual lab environment where Suricata IDS monitors network traffic from a lab workstation and generates security events for analysis.
+>This diagram illustrates the high-level architecture of an isolated virtual lab environment where Suricata IDS monitors network traffic from a lab workstation and generates security events for analysis.
 
 ## Key Skills Demonstrated
 - Network traffic inspection and IDS deployment
